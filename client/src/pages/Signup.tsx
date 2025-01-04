@@ -1,3 +1,5 @@
 export default function SignupForm() {
-	return <div></div>
+	return (
+		<div className="flex justify-center items-center h-lvh"></div>
+	);
 }

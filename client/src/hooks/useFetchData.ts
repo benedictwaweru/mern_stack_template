@@ -1,1 +1,1 @@
-export async function useFetchData(): Promise<void> {}
+export const useFetchData = async (): Promise<void> => {}
